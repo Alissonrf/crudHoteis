@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 📖 Descrição do projeto
 
 Esse projeto foi desenvolvido para atender a um desafio, no qual era necesario:
@@ -12,3 +13,6 @@ Esse projeto foi desenvolvido para atender a um desafio, no qual era necesario:
 ## 🚀 Desenvolvimento
 
 Para executar o projeto, basta executar o método Main em <b>src/main/java/com/example/senior/Main.java</b>.
+=======
+# crudHoteis
+>>>>>>> a42a527fb74be286688b2bfa00d187d6407bf833
