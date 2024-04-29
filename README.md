@@ -12,7 +12,10 @@ Esse projeto foi desenvolvido para atender a um desafio, no qual era necesario:
 
 ## 🚀 Desenvolvimento
 
-Para executar o projeto, basta executar o método Main em <b>src/main/java/com/example/senior/Main.java</b>.
-=======
-# crudHoteis
->>>>>>> a42a527fb74be286688b2bfa00d187d6407bf833
+Para executar o projeto, 
+
+Necessário criar um database com o nome "senior" no dbeaver, as tabelas serão geradas automaticamente ao rodar a aplicação
+
+Após isso basta compilar o maven dentro da sua IDE e executar o método Main em <b>src/main/java/com/example/senior/Main.java</b>.
+
+A aplicação funciona via REST, necessario chamar os endpoints via POSTMAN
